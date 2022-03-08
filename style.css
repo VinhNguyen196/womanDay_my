@@ -170,15 +170,15 @@ div.box-image {
     object-fit: cover;
     object-position: center;
 }
-div#icon {
+div.icon {
     text-align: center;
     mix-blend-mode: multiply;
 }
-div#love {
+div.love {
     display: flex;
     justify-content: space-between;
 }
-div#love div {
+div.love div {
     border-radius: 10px;
     box-shadow: 2px 1px 2px black;
     overflow: hidden;
@@ -192,22 +192,22 @@ div#love div {
         opacity: 0;
     }
 }
-div#icon iframe {
+div.icon iframe {
     opacity: 0;
     animation: hidden 2s ease both;
     animation-delay: 17s;
 }
-div#love div:nth-child(1) {
+div.love div:nth-child(1) {
     opacity: 0;
     animation: hidden 2s ease both;
     animation-delay: 19s;
 }
-div#love div:nth-child(2) {
+div.love div:nth-child(2) {
     opacity: 0;
     animation: hidden 2s ease both;
     animation-delay: 21s;
 }
-div#love div:nth-child(3) {
+div.love div:nth-child(3) {
     opacity: 0;
     animation: hidden 2s ease both;
     animation-delay: 23s;
