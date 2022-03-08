@@ -33,8 +33,8 @@ div.box-image {
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     width: 1200px;
-    background-image: url('./ngoc.jpg');
-    background-position: 50% 88%;
+    background-image: url('./3.jpg');
+    background-position: 45% 50%;
     filter: brightness(120%);
 }
 div.box-content {
