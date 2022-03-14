@@ -35,8 +35,8 @@ div.box-image {
     border-top-right-radius: 30px;
     border-bottom-right-radius: 30px;
     width: 1200px;
-    background-image: url('./6.jpg');
-    background-position: 45% 50%;
+    background-image: url('./3.jpg');
+    background-position: 50% 50%;
     background-size: cover;
     filter: brightness(120%);
 }
